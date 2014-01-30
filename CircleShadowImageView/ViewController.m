@@ -23,7 +23,7 @@
     [super viewDidLoad];
 
     // Create with coooddeeezzzzzzz
-    _circleChadowImageView = [[CircleShadowImageView alloc] initWithFrame:CGRectMake(40.0f, 150.0f, 220.0f, 220.0f)];
+    _circleChadowImageView = [[CircleShadowImageView alloc] initWithFrame:CGRectMake(50.0f, 150.0f, 220.0f, 220.0f)];
     [_circleChadowImageView setImage:[UIImage imageNamed:@"bandit-square"]];
     [_circleChadowImageView setShadow:[UIColor colorWithRed:0.1f green:0.2f blue:0.4f alpha:1.0f]
                          shadowOffset:CGSizeMake(7.0f, 7.0f)
