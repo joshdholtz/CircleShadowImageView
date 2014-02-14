@@ -5,7 +5,7 @@ iOS UIImageView subclass for making a circle image with a shadow
 
 ![Screenshot](https://raw.github.com/joshdholtz/CircleShadowImageView/master/Screenshots/screenshot.png)
 
-## Eamples - Interface Builder
+## Examples - Interface Builder
 
 ![InterfaceBuilder](https://raw.github.com/joshdholtz/CircleShadowImageView/master/Screenshots/example_ib.png)
 
